@@ -1,1 +1,1 @@
-# CreditOne-Project
+# CreditOne-EDA
