@@ -60,8 +60,3 @@ Y: client's behavior; Y=0 then not default, Y=1 then default"
 Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the
 predictive accuracy of probability of default of credit card clients. Expert Systems with
 Applications, 36(2), 2473-2480.
-
-### Citation Request:
-Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the
-predictive accuracy of probability of default of credit card clients. Expert Systems with
-Applications, 36(2), 2473-2480. 
